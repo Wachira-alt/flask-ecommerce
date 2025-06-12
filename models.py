@@ -22,6 +22,10 @@ class Customer(db.Model):
     age = db.Column(db.String, nullable=True)
     created_at = db.Column(db.DateTime, default=datetime.utcnow)
 
+    
+
 #products
 #orders
 #order-item
+
+

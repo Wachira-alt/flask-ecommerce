@@ -1,5 +1,4 @@
 # seed.py
-
 from models import db, Customer
 from app import app
 
